@@ -26,6 +26,9 @@ body {
 .ul-nav:focus{
     color: #404bbf;
 }
+ul{
+    list-style-type: none;
+}
 .nav-header{
     font-style: normal;
     line-height: 1.5;
