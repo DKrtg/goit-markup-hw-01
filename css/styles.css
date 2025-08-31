@@ -36,5 +36,13 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    text-decoration: none;
-}                
+}
+
+.ftr-logo {
+    color: #f4f4fd;
+}
+.ftr-p {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
