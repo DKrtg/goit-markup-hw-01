@@ -32,8 +32,8 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.ul-address:hover,
-.ul-address:focus{
+.address-header:hover,
+.address-header:focus{
     color: #404bbf;
 }
 .section-4{
