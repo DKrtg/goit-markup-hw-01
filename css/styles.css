@@ -58,17 +58,17 @@ ul{
 .ul-address{
     color: #434455;
 }
-.section-1{
+.sect-1{
     background-color:#2e2f42;
 }
-.h1-section1{
+.h1-sect{
     font-size: 56px ;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em ;
     color: #ffffff;
 }
-.button-section1{
+.button-sect1{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -78,11 +78,11 @@ ul{
     color: #ffffff;
     cursor: pointer
 }
-.button-section1:hover,
-.button-section1:focus{
+.button-sect1:hover,
+.button-sect1:focus{
     background-color: #404BBF;
 }
-.section-4{
+.sect-4{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -90,14 +90,14 @@ ul{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.section-h3{
+.sect-h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section-p{
+.sect-p{
     line-height: 1.5;
     letter-spacing: 0.02em
 }
