@@ -93,6 +93,31 @@ ul{
     line-height: 1.5;
     letter-spacing: 0.02em
 }
+.sect-3{
+    background-color: #F4F4FD;
+}
+.sect-3-h2{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.ul-3{
+    background-color: #FFFFFF
+}
+.sect-3-h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.sect-3-p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 .sect-4{
     font-size: 36px;
     line-height: 1.11;
