@@ -15,12 +15,8 @@ body {
 .logo-span {
     color: #2e2f42;
 }
-.nav-header{
-  color: #2e2f42; 
-  text-decoration: none;
-}
-.nav-header:hover,
-.nav-header:focus{
+.ul-nav:hover,
+.ul-nav:focus{
     color: #404bbf;
 }
 .ul-nav{
