@@ -58,17 +58,17 @@ ul{
 .ul-address{
     color: #434455;
 }
-.sect-1{
+.sect-one{
     background-color:#2e2f42;
 }
-.h1-sect1{
+.h1-sect-one{
     font-size: 56px ;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em ;
     color: #ffffff;
 }
-.button-sect1{
+.button-sect-one{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -78,25 +78,25 @@ ul{
     color: #ffffff;
     cursor: pointer
 }
-.button-sect1:hover,
-.button-sect1:focus{
+.button-sect-one:hover,
+.button-sect-one:focus{
     background-color: #404BBF;
 }
-.sect-2-h3{
+.sect-two-h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.sect-2-p{
+.sect-two-p{
     line-height: 1.5;
     letter-spacing: 0.02em
 }
-.sect-3{
+.sect-three{
     background-color: #F4F4FD;
 }
-.sect-3-h2{
+.sect-three-h2{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -104,21 +104,21 @@ ul{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.ul-3{
+.ul-three{
     background-color: #FFFFFF
 }
-.sect-3-h3{
+.sect-three-h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.sect-3-p{
+.sect-three-p{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.sect-4{
+.sect-four{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
