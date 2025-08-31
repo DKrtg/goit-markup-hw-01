@@ -15,6 +15,13 @@ body {
 .logo-span {
     color: #2e2f42;
 }
+.ul-nav0{
+    font-weight: 500;
+    font-size: 16;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 .ul-nav:hover,
 .ul-nav:focus{
     color: #404bbf;
@@ -25,20 +32,17 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.ul-nav{
-    font-weight: 500;
-    font-size: 16;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
 .address-header{
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.ul-address{
+.ul-address0{
+    font-weight: 500;
+    font-size: 16;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .ul-address:hover,
