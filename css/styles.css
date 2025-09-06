@@ -80,6 +80,8 @@ ul{
 }
 .ul-address{
     color: #434455;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .sect-one{
     background-color:#2e2f42;
