@@ -198,6 +198,16 @@ ul{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
+}
+.ul-sect-four{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+.ul-four{
+    width: calc((100% - 48px) / 3);
 }
 .sect-h-three{
     font-weight: 500;
