@@ -78,7 +78,9 @@ ul{
 }
 .ul-address{
     color: #434455;
-    padding: 24px 0 24px;
+}
+.ul-address-v{
+    padding: 24px 0;
 }
 .sect-one{
     background-color:#2e2f42;
