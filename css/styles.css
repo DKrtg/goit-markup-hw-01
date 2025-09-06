@@ -231,6 +231,8 @@ ul{
     background-color: #2e2f42;
     text-align: center;
     padding: 100px 0;
+    display: inline-block;
+
 }     
 .ftr-logo {
     font-family: "Raleway", sans-serif;
@@ -241,7 +243,6 @@ ul{
     text-transform: uppercase;
     color: #4d5ae5;
     margin-bottom: 16px;
-    display: inline-block;
 }
 
 .ftr-span {
