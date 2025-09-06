@@ -189,6 +189,9 @@ ul{
     text-align: center;
 }
 .sect-four{
+    padding-top: 120px; padding-bottom: 120px;
+}
+.sect-four-h-two{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
