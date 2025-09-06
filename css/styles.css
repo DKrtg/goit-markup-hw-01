@@ -45,6 +45,8 @@ img {
 }
 .ul-nav{
     color: #2e2f42;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 ul{
     list-style-type: none;
