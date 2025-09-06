@@ -143,6 +143,9 @@ ul{
     color: #2e2f42;
     margin-bottom: 8px;
 }
+.li-sect-two{
+    width: calc((100% - 72px) / 4);
+}
 .sect-two-p{
     line-height: 1.5;
     letter-spacing: 0.02em
