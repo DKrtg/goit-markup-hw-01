@@ -37,8 +37,7 @@ img {
     color: #2e2f42;
     display: flex;
     gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    
 }
 .ul-nav:hover,
 .ul-nav:focus{
@@ -72,6 +71,8 @@ ul{
     color: #2e2f42;
     display: flex;
     gap: 40px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .ul-address:hover,
 .ul-address:focus{
