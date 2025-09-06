@@ -37,6 +37,7 @@ img {
     color: #2e2f42;
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
 .ul-nav:hover,
 .ul-nav:focus{
@@ -61,7 +62,6 @@ ul{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    
 }
 .ul-address-o{
     font-weight: 500;
@@ -78,9 +78,6 @@ ul{
 }
 .ul-address{
     color: #434455;
-}
-.ul-address-v{
-    padding: 24px 0;
 }
 .sect-one{
     background-color:#2e2f42;
