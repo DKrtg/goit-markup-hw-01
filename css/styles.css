@@ -115,6 +115,9 @@ ul{
 .button-sect-one:focus{
     background-color: #404BBF;
 }
+.sect-two{
+    padding: 120px 0;
+}
 .sect-two-h-three{
     font-weight: 500;
     font-size: 20px;
