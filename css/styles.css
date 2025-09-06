@@ -15,6 +15,7 @@ img {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+    padding: 24px 0 24px;
 }
 .log {
     font-family: "Raleway", sans-serif;
@@ -37,7 +38,6 @@ img {
     color: #2e2f42;
     display: flex;
     gap: 40px;
-    padding: 24px 0 24px;
 }
 .ul-nav:hover,
 .ul-nav:focus{
@@ -71,7 +71,6 @@ ul{
     color: #2e2f42;
     display: flex;
     gap: 40px;
-    padding: 24px 0 24px;
 }
 .ul-address:hover,
 .ul-address:focus{
