@@ -4,6 +4,9 @@ body {
     background-color:#FFFFFF;
     margin: 0;
 }
+a {
+    text-decoration: none;
+}
 img {
     display: block;
 }
