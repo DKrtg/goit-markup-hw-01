@@ -240,8 +240,11 @@ ul{
     background-color: #2e2f42;
     text-align: center;
     padding: 100px 0;
+    
+}
+.ftr a {
     display: inline-block;
-}     
+}
 .ftr-logo {
     display: inline-block;
     font-family: "Raleway", sans-serif;
