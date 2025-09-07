@@ -120,6 +120,7 @@ ul{
     height: 56px;
     border: none;
     border-radius: 4px;
+    display: block;
 }
 .button-sect-one:hover,
 .button-sect-one:focus{
