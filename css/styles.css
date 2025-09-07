@@ -245,15 +245,14 @@ ul{
 .ftr-logo {
     display: inline-block;
     font-family: "Raleway", sans-serif;
+    line-height: 1.17;
     font-weight: 700;
     font-size: 18px;
-    display: inline-block;
-    margin-bottom: 16px;
-    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
-    
+    color:#4d5ae5;
+    margin-bottom: 16px;
+
 }
 
 .ftr-span {
