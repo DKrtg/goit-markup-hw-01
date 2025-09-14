@@ -78,6 +78,11 @@ img {
     background-color: #404bbf;
     border-radius: 2px;
 }
+.current::after{
+    
+    background-color: #404bbf;
+    
+}
 ul{
     list-style-type: none;
     padding:0;
