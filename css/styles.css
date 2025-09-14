@@ -183,10 +183,6 @@ ul{
     display: flex;
     gap: 24px;
 }
-svg{
-    width: 64px;
-    height: 64px;
-}
 .sect-two-h-three{
     font-weight: 500;
     font-size: 20px;
