@@ -78,11 +78,6 @@ img {
     background-color: #404bbf;
     border-radius: 2px;
 }
-.current::after{
-    
-    background-color: #404bbf;
-    
-}
 ul{
     list-style-type: none;
     padding:0;
@@ -272,7 +267,7 @@ ul{
     background-color:#404bbf;
 }
 .role-social-a-svg{
-    fill: #f4f4fd;
+    fill: #ffffff;
 }
 .sect-four{
     padding-top: 120px; padding-bottom: 120px;
