@@ -183,7 +183,7 @@ ul{
     display: flex;
     gap: 24px;
 }
-.sect-two-div-svg{
+svg{
     width: 64px;
     height: 64px;
 }
