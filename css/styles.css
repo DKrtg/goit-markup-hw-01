@@ -333,6 +333,9 @@ ul{
     letter-spacing: 0.02em
     
 }
+.sect-p:hover{
+    transform: translateY(0%);
+}
 .ftr {
     background-color: #2e2f42;
     text-align: center;
