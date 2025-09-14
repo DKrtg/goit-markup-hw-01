@@ -370,3 +370,6 @@ ul{
 .ftr-div-social-a:focus{
     background-color:#404bbf;
 }
+.ftr-div-social-a-svg{
+    fill: #f4f4fd;
+}
