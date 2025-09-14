@@ -364,3 +364,9 @@ ul{
     align-items: center;
     justify-content: center;
 }
+.ftr-div-social-a:hover{
+    background-color:#404bbf;
+}
+.ftr-div-social-a:focus{
+    background-color:#404bbf;
+}
