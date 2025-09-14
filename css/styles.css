@@ -260,6 +260,10 @@ ul{
     align-items: center;
     justify-content: center;
 }
+.role-social-a:hover,
+.role-social-a:focus{
+    background-color:#404bbf;
+}
 .sect-four{
     padding-top: 120px; padding-bottom: 120px;
 }
