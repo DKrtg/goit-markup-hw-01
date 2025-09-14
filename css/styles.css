@@ -314,6 +314,9 @@ ul{
     transform: translateY(100%);
     
 }
+.ul-four-div-p:hover{
+    transform: translateY(0%);
+}
 .nom-role-o{
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
@@ -332,9 +335,6 @@ ul{
     line-height: 1.5;
     letter-spacing: 0.02em
     
-}
-.sect-p:hover{
-    transform: translateY(0%);
 }
 .ftr {
     background-color: #2e2f42;
