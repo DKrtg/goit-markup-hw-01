@@ -44,6 +44,9 @@ img {
 .logo-span {
     color: #2e2f42;
 }
+.logo-span ::after{
+     color: #404bbf;
+}
 .ul-nav-o{
     font-weight: 500;
     font-size: 16;
