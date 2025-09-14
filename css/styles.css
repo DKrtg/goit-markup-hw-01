@@ -50,7 +50,6 @@ img {
     color: #2e2f42;
     display: flex;
     gap: 40px;
-    position: relative;
     
 }
 .ul-nav:hover,
@@ -61,6 +60,7 @@ img {
     color: #2e2f42;
     padding-top: 24px;
     padding-bottom: 24px;
+    position: relative;
 }
 ul{
     list-style-type: none;
