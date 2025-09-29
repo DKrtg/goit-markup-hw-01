@@ -432,7 +432,10 @@ ul{
     background-color: #2e2f42;
     text-align: center;
     padding: 100px 0;
-    
+}
+
+ftr-container{
+    display: flex;
 }
 
 /* Логотип та опис  */
@@ -461,6 +464,7 @@ ul{
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    width: 264px;
 }
 
 /* Соціальні мережі  */
