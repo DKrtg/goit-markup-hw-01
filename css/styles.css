@@ -431,6 +431,8 @@ ul{
     
 }
 
+/* Логотип та опис  */
+
 .ftr-div{
     margin-right: 120px;
 }
@@ -447,7 +449,7 @@ ul{
     margin-bottom: 16px;
 }
 
-.ftr-span {
+.ftr-logo-span {
     color: #f4f4fd;
 }
 
@@ -456,6 +458,8 @@ ul{
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
+
+/* Соціальні мережі  */
 
 .ftr-div-social-p{
     font-weight: 500;
