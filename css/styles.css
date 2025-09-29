@@ -500,10 +500,7 @@ ul{
     justify-content: center;
 }
 
-.ftr-div-social-a:hover{
-    background-color:#31d0aa;
-}
-
+.ftr-div-social-a:hover,
 .ftr-div-social-a:focus{
     background-color:#31d0aa;
 }
