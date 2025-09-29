@@ -436,6 +436,7 @@ ul{
 
 .ftr-container{
     display: flex;
+    align-items: baseline
 }
 
 /* Логотип та опис  */
