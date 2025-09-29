@@ -377,6 +377,8 @@ ul{
 
 }
 
+/* Текст при наведенні  */
+
 .li-sect-four-div-p{
     position: absolute;
     top: 0;
@@ -398,14 +400,14 @@ ul{
     transform: translateY(0%);
 }
 
-.nom-role-o{
+.li-sect-four-nom-role{
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
 }
 
-.sect-h-three{
+.li-sect-four--h-three{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -414,7 +416,7 @@ ul{
     margin-bottom: 8px
 }
 
-.sect-p{
+.li-sect-four--p{
     line-height: 1.5;
     letter-spacing: 0.02em
     
