@@ -331,10 +331,7 @@ ul{
     justify-content: center;
 }
 
-.role-social-a:hover{
-    background-color:#404bbf;
-}
-
+.role-social-a:hover,
 .role-social-a:focus{
     background-color:#404bbf;
 }
