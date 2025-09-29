@@ -161,6 +161,7 @@ ul{
     background-position: center;
     background-size: cover;
 }
+
 .h-one-sect-one{
     font-size: 56px ;
     line-height: 1.07;
@@ -169,6 +170,7 @@ ul{
     color: #ffffff;
     max-width: 496px;
 }
+
 .button-sect-one{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
@@ -185,10 +187,14 @@ ul{
     display: block;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .button-sect-one:hover,
 .button-sect-one:focus{
     background-color: #404BBF;
 }
+
+            /* Секція 2  */
+
 .sect-two{
     padding: 120px 0;
 }
