@@ -125,7 +125,7 @@ ul{
     color: #2e2f42;
 }
 
-.ul-address-o{
+.ul-address{
     font-weight: 500;
     font-size: 16;
     line-height: 1.5;
@@ -138,12 +138,12 @@ ul{
     
 }
 
-.ul-address:hover,
-.ul-address:focus{
+.li-address:hover,
+.li-address:focus{
     color: #404bbf;
 }
 
-.ul-address{
+.li-address{
     color: #434455;
     padding-top: 24px;
     padding-bottom: 24px;
