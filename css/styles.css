@@ -399,7 +399,7 @@ ul{
     
 }
 
-.li-sect-four-div-p:hover{
+.li-sect-four:hover .li-sect-four-div-p {
     transform: translateY(0%);
 }
 
