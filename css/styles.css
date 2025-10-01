@@ -701,14 +701,14 @@ ul{
     margin-bottom: 24px;
 }
 
-.model-window-form-input-label{
+.model-window-form-label{
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
 
-.model-window-form-input-label-span{
+.model-window-form-label-span{
     width: 16px;
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.4);
