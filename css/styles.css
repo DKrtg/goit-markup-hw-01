@@ -696,3 +696,7 @@ ul{
 .model-window-form-textarea:focus{
     border-color: #4d5ae5;
 }
+
+.model-window-form-div-label{
+    margin-bottom: 24px;
+}
