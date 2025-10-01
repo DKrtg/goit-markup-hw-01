@@ -720,6 +720,3 @@ ul{
     fill: transparent;
 }
 
-:checked + span {
-    background-color: var(--varName, #404bbf);
-}
