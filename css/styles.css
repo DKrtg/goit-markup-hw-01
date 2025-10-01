@@ -523,6 +523,7 @@ ul{
 
 .ftr-div-subscribe-form{
     display: flex;
+    gap: 24px;
 }
 .ftr-div-form-label{
     gap: 24px
