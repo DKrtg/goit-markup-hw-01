@@ -719,3 +719,7 @@ ul{
     justify-content: center;
     fill: transparent;
 }
+
+:checked + span {
+    background-color: var(--varName, #404bbf);
+}
