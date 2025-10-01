@@ -559,4 +559,9 @@ ul{
     border: none;
     border-radius: 4px;
 }
+.ftr-div-form-button-svg{
+    width: 24px;
+    height: 24px;
+    margin-left: 16px;
+}
 
