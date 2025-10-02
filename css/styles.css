@@ -727,11 +727,9 @@ ul{
 
 }
 
-.model-window-form-div-checkbox-input:focus + .model-window-form-div-checkbox-svg {
-fill: #404bbf;
-}
 
-.model-window-form-div-checkbox-input:checked + .model-window-form-div-checkbox-label > .model-window-form-div-checkbox-svg {
+
+.model-window-form-div-checkbox-input:checked + .model-window-form-div-checkbox-span  {
 background-color: #404bbf;;
 fill: #F4F4FD;
 border: none;
