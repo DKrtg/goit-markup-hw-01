@@ -727,11 +727,11 @@ ul{
 
 }
 
-.visually-hidden:focus + .model-window-form-div-checkbox-svg {
+.model-window-form-div-checkbox-input:focus + .model-window-form-div-checkbox-svg {
 fill: #404bbf;
 }
 
-.visually-hidden:checked + .model-window-form-div-checkbox > .model-window-form-div-checkbox-svg {
+.model-window-form-div-checkbox-input:checked + .model-window-form-div-checkbox-label > .model-window-form-div-checkbox-svg {
 background-color: #404bbf;;
 fill: #404bbf;
 border: none;
