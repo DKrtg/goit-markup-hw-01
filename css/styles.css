@@ -512,6 +512,10 @@ ul{
 
             /* Форма підписки  */
 
+.ftr-div-subscribe{
+    margin-left: 80px;
+}
+
 .ftr-div-subscribe-p{
     margin-bottom: 16px;
     font-weight: 500;
