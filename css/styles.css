@@ -723,10 +723,12 @@ ul{
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    fill: #F4F4FD;
+    fill: transparent;
 }
 
-
+.model-window-form-div-checkbox-svg{
+    fill: #F4F4FD;
+}
 
 
 
