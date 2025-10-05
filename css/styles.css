@@ -764,3 +764,15 @@ fill: #F4F4FD
     margin: 0 auto;
 }
 
+@media  (min-width: 320px), (max-width: 767px){
+    .container{
+        width: 767px;
+    }
+}
+
+@media  (min-width: 768px), (max-width: 1157px){
+    .container{
+        width: 1157px;
+    }
+}
+
