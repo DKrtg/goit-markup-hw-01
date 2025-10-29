@@ -97,10 +97,22 @@ ul{
     
 }
 
-.logo-span {
-    color: #2e2f42;
+.hdr-log {
+  padding: 16px 0;
+  display: block;
 }
 
-.logo-span ::after{
-     color: #404bbf;
+.hdr-log .logo-span {
+  color: #2e2f42;
+}
+
+/*.burger-btn {
+  padding: 0;
+  border: none;
+  background-color: transparent;
+}
+
+.burger-icon {
+  display: block;
+  fill: #2f2f37;
 }
