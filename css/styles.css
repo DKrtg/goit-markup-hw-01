@@ -267,5 +267,26 @@ ul{
   }
 }
 
+.mobile-menu-ul-nav{
+  width: 151px;
+  height: 200px;
+
+}
+
+.mobile-menu-il-nav{
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+
+}
+
+.mobile-menu-il-nav:hover,
+.mobile-menu-il-nav:focus{
+    color: #404bbf;
+}
+
             /* Секція 1  */
 
