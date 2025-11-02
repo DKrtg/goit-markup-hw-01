@@ -259,6 +259,15 @@ ul{
   right: 24px;
 }
 
+.mobile-menu-button-svg{
+    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.mobile-menu-close:hover .mobile-menu-button-svg,
+.mobile-menu-close:focus .mobile-menu-button-svg{
+    fill: #ffffff;
+}
+
 .mobile-menu-nav {
   margin-bottom: auto;
 }
